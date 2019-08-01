@@ -1,0 +1,135 @@
+
+
+.grid {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+footer {
+    clear: both;
+}
+
+.col-2-3 p img {
+    height: auto;
+    width: 60%;
+    padding: 0px 10px 10px 0px;
+    float: left;
+}
+
+#img-p img {
+    height: auto;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+section article p,
+aside div p,
+#about article {
+    text-align: justify;
+}
+
+#about {
+    margin: 35px;
+}
+
+address {
+    font-size: 20px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    text-decoration: none;
+}
+
+.g {
+    background-color: lightgray;
+}
+
+.con {
+    font-size: 50px;
+}
+
+.btn {
+    width: 100px;
+    height: 30px;
+    background: #6a89cc;
+    margin: 10px 40px 10px 100px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    font-family: "montserrat",sans-serif;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition: 0.4s;
+    transform-style: preserve-3d;
+    perspective: 800px;
+}
+
+    .btn::after {
+        content: '';
+        position: absolute;
+        background: #4a69bd;
+        transition: 0.4s;
+    }
+
+    .btn:hover {
+        transform: rotateX(20deg);
+    }
+
+    .btn:after {
+        width: 100%;
+        height: 24px;
+        top: 100%;
+        left: 0;
+        transform-origin: 0 0;
+        transform: rotateX(-90deg);
+    }
+
+.Button {
+    width: 100%;
+    background: none;
+    border: 2px solid #4caf50;
+    color: Yellow;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 12px 0;
+}
+
+    .Button:hover {
+        background: green;
+        color: white;
+    }
+
+.textbox {
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #4caf50;
+}
+
+    .textbox input {
+        border: none;
+        outline: none;
+        background: none;
+        color: white;
+        font-size: 18px;
+        width: 80%;
+        float: left;
+        margin: 0 10px;
+    }
+
+.h {
+    margin: 100px;
+    text-align: center;
+    background-color: antiquewhite;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    color: blue;
+}
+
+.title {
+    text-align:center
+    margin: 20px;
+    padding: 20px;
+}

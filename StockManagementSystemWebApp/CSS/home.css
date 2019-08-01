@@ -1,0 +1,36 @@
+﻿body {
+    margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url(image/bg.jpg) no-repeat;
+  background-size: cover;
+    color: Yellow;
+}
+
+a:link, a:visited {
+    display:inline;
+    width:150px;
+    background-color: purple;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: #6D0062;
+}
+.navdiv {
+    margin: 50px;
+    border: 20px;
+    padding: 20px;
+}
+.logout:hover {
+    background: green;
+    color: white;
+}

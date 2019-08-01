@@ -1,0 +1,6 @@
+C:\Users\Shahin\Desktop\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+C:\Users\Shahin\Desktop\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+C:\Users\Shahin\Desktop\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+C:\Users\Shahin\Desktop\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Release\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Shahin\Desktop\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Release\StockManagementSystemWebApp.dll
+C:\Users\Shahin\Desktop\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Release\StockManagementSystemWebApp.pdb
